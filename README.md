@@ -175,7 +175,3 @@ The **AI Research Intelligence System** demonstrates an end-to-end NLP pipeline 
 The system enables semantic paper retrieval, AI-generated summarization, research trend analysis, and paper comparison, helping researchers efficiently explore scientific literature while showcasing the practical application of modern Artificial Intelligence and Natural Language Processing techniques.
 
 ---
-
-Machine Learning | Artificial Intelligence | Natural Language Processing | Deep Learning
-
-⭐ **If you found this project useful, please consider giving it a star on GitHub!**
